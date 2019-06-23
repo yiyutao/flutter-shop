@@ -1,0 +1,146 @@
+{
+  "code": "0",
+  "message": "success",
+  "data": [
+    {
+      "name": "智美9%蓝帽啤酒18.9°P330ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190121171258_323.jpg",
+      "mallPrice": 21.90,
+      "goodsId": "6f09c0e733b0499c81503ce457b4cf9f",
+      "price": 24.09
+    },
+    {
+      "name": "波士力娇酒蛋黄味21°700ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190122093838_5979.jpg",
+      "mallPrice": 98.00,
+      "goodsId": "cf304b822ddd4f6aa275c5e54f36abba",
+      "price": 107.80
+    },
+    {
+      "name": "汉德百士菠萝啤500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190121101250_3231.jpg",
+      "mallPrice": 1.10,
+      "goodsId": "80a28efdb16b4fa29884095ef1399a7e",
+      "price": 1.21
+    },
+    {
+      "name": "林德曼山莓味啤酒250ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190121102807_7848.jpg",
+      "mallPrice": 16.00,
+      "goodsId": "e47bf468042a4940a3b8a32d07f64d71",
+      "price": 17.60
+    },
+    {
+      "name": "福佳4.9%白啤酒11.7°P330ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190121100327_1855.jpg",
+      "mallPrice": 12.50,
+      "goodsId": "3a79607209a044aeb1926c10bb837a75",
+      "price": 13.75
+    },
+    {
+      "name": "林德曼苹果啤酒250ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190121103035_1212.jpg",
+      "mallPrice": 16.00,
+      "goodsId": "a3b789aa3fa542c6953f578b4a4d00a1",
+      "price": 17.60
+    },
+    {
+      "name": "青岛啤酒10°500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190121160757_296.jpg",
+      "mallPrice": 4.80,
+      "goodsId": "8d3d6f79e7a34b75848b13c701ea62b4",
+      "price": 5.28
+    },
+    {
+      "name": "茅台三十年礼盒",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190118163251_3984.jpg",
+      "mallPrice": 10999.00,
+      "goodsId": "8c8117b894d94273a3ed82536ead3402",
+      "price": 12098.90
+    },
+    {
+      "name": "茅台玫瑰金53°500MLl",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190118161429_6341.jpg",
+      "mallPrice": 3599.00,
+      "goodsId": "d2168f0647924b829d95c006bf05a0ec",
+      "price": 3958.90
+    },
+    {
+      "name": "茅台飞天带杯53°500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20181229210425_6614.jpg",
+      "mallPrice": 1799.00,
+      "goodsId": "35df1fdd5d8c468ca525cd7021bd32d8",
+      "price": 1978.90
+    },
+    {
+      "name": "五粮液52°1000ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190119111343_9787.jpg",
+      "mallPrice": 1650.00,
+      "goodsId": "48209753f9f146d49ab8dca5f52de6de",
+      "price": 1815.00
+    },
+    {
+      "name": "汾酒20青花53°500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190109172849_6508.jpg",
+      "mallPrice": 379.00,
+      "goodsId": "81f919f9719e4e7498a3a53f5b294376",
+      "price": 598.00
+    },
+    {
+      "name": "茅台15年53°500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190118152446_4422.jpg",
+      "mallPrice": 4999.00,
+      "goodsId": "b093148f2e6747e9bb068efd37b6695f",
+      "price": 5498.90
+    },
+    {
+      "name": "洋河蓝色经典海之蓝52°480ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190109173820_1556.jpg",
+      "mallPrice": 178.00,
+      "goodsId": "11a401e776e44414bd886f27a1def492",
+      "price": 195.80
+    },
+    {
+      "name": "汾酒30青花53°500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190109172954_1192.jpg",
+      "mallPrice": 579.00,
+      "goodsId": "ec3c55fb0d4a4f68beb80dc6d1fbf7eb",
+      "price": 636.90
+    },
+    {
+      "name": "五粮液十五年礼盒500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190119143850_275.jpg",
+      "mallPrice": 2160.00,
+      "goodsId": "c7a5eaedb3da4e5e887fc60226812d13",
+      "price": 2376.00
+    },
+    {
+      "name": "飞天茅台53°200ML",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190118150311_1017.jpg",
+      "mallPrice": 869.00,
+      "goodsId": "405b4d856b7d43ed890d868011679cef",
+      "price": 955.90
+    },
+    {
+      "name": "茅台飞天53° 1500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190118162327_209.jpg",
+      "mallPrice": 7599.00,
+      "goodsId": "cd4e9ac2e21940e1b21e10ffde24dffb",
+      "price": 8358.90
+    },
+    {
+      "name": "茅台飞天53° 1000ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190118162413_1873.jpg",
+      "mallPrice": 3999.00,
+      "goodsId": "1d386b95893a4ad590fbc2b4465216f1",
+      "price": 4398.90
+    },
+    {
+      "name": "泸州国窖1573（52°）500ml",
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190118110141_8950.jpg",
+      "mallPrice": 729.00,
+      "goodsId": "04e338da9dbd4ad9913c38e7a4ae5677",
+      "price": 810.00
+    }
+  ]
+}

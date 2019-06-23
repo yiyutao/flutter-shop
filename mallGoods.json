@@ -1,0 +1,146 @@
+{
+  "code": "0",
+  "message": "success",
+  "data": [
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180717093312_6137.jpg",
+      "oriPrice": 0.28,
+      "presentPrice": 0.25,
+      "goodsName": "大大泡泡糖",
+      "goodsId": "eea505acb1944bbf8ec98ad107113874"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180717113033_1401.jpg",
+      "oriPrice": 0.78,
+      "presentPrice": 0.70,
+      "goodsName": "玉美鲜鱿鱼味香脆饼15g",
+      "goodsId": "2191ec0ab49f4f4da498f9f768ad5528"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180716214046_5472.jpg",
+      "oriPrice": 1.11,
+      "presentPrice": 1.00,
+      "goodsName": "劲仔鱼麻辣味12g",
+      "goodsId": "2d0c7cb285384355804dcd510bacf9cf"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180717084351_484.jpg",
+      "oriPrice": 1.11,
+      "presentPrice": 1.00,
+      "goodsName": "不二家果味大棒棒糖混合口味盒装",
+      "goodsId": "be4d7001e5994e40bff17e45a47f18db"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190121101250_3231.jpg",
+      "oriPrice": 1.21,
+      "presentPrice": 1.10,
+      "goodsName": "汉德百士菠萝啤500ml",
+      "goodsId": "80a28efdb16b4fa29884095ef1399a7e"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190116160606_7101.jpg",
+      "oriPrice": 1.50,
+      "presentPrice": 1.20,
+      "goodsName": "农夫山泉天然水550ml",
+      "goodsId": "63d54204ce244418ac05aec800190cef"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190116160156_7714.jpg",
+      "oriPrice": 2.00,
+      "presentPrice": 1.40,
+      "goodsName": "怡宝纯净水555ml",
+      "goodsId": "6cd7b5875f2d4049bb1667342be34c75"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180716155456_1449.jpg",
+      "oriPrice": 2.10,
+      "presentPrice": 1.50,
+      "goodsName": "泡椒鸡爪（一个）",
+      "goodsId": "05b9e1b4bc6a49e580f3f5c92acbaf20"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190116161123_8945.jpg",
+      "oriPrice": 1.80,
+      "presentPrice": 1.50,
+      "goodsName": "娃哈哈纯净水596ml",
+      "goodsId": "22bb7be334234189ab249ba86ec94c6f"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190116145309_40.jpg",
+      "oriPrice": 2.50,
+      "presentPrice": 1.80,
+      "goodsName": "哈尔滨冰爽啤酒330ml",
+      "goodsId": "3194330cf25f43c3934dbb8c2a964ade"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190115185215_1051.jpg",
+      "oriPrice": 2.00,
+      "presentPrice": 1.80,
+      "goodsName": "燕京啤酒8°330ml",
+      "goodsId": "522a3511f4c545ab9547db074bb51579"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180717164555_4844.jpg",
+      "oriPrice": 2.50,
+      "presentPrice": 1.80,
+      "goodsName": "伊利纯鲜牛奶240ml",
+      "goodsId": "9f21e652df644c44b29e6aef27f4f56f"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190121102419_9362.jpg",
+      "oriPrice": 1.98,
+      "presentPrice": 1.80,
+      "goodsName": "崂山清爽8°330ml",
+      "goodsId": "bbdbd5028cc849c2998ff84fb55cb934"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180712181330_9746.jpg",
+      "oriPrice": 2.50,
+      "presentPrice": 1.90,
+      "goodsName": "雪花啤酒8°清爽330ml",
+      "goodsId": "87013c4315e54927a97e51d0645ece76"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190116161604_1223.jpg",
+      "oriPrice": 2.22,
+      "presentPrice": 2.00,
+      "goodsName": "天喔茶庄蜂蜜柚子茶(l利乐）250ml/盒",
+      "goodsId": "14d28dbda7214aa39ca7177144f77c8b"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190116161349_2735.jpg",
+      "oriPrice": 2.00,
+      "presentPrice": 2.00,
+      "goodsName": "今麦郎凉白开500ml/瓶",
+      "goodsId": "63ac261a8a964ad2b68c10df50f132db"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180716213830_6267.jpg",
+      "oriPrice": 2.22,
+      "presentPrice": 2.00,
+      "goodsName": "无穷农场盐焗鸡蛋30g",
+      "goodsId": "6a07941fe90b4483b765fffd79a01dac"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180717235006_2382.jpg",
+      "oriPrice": 3.00,
+      "presentPrice": 2.00,
+      "goodsName": "景田百岁山矿泉水570ml/瓶",
+      "goodsId": "a6207b017d954a0e8a5b5b137ac7329e"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20180717115346_7802.jpg",
+      "oriPrice": 2.22,
+      "presentPrice": 2.00,
+      "goodsName": "花花牛酸牛奶160g",
+      "goodsId": "babd01169b42413eac9e6fd82e21cd7b"
+    },
+    {
+      "image": "http://images.baixingliangfan.cn/compressedPic/20190116170518_7239.jpg",
+      "oriPrice": 2.22,
+      "presentPrice": 2.00,
+      "goodsName": "今麦郎芒顿小镇水蜜桃味饮料500ml",
+      "goodsId": "be7323f3e94c435081abbfdc6dac691e"
+    }
+  ]
+}
